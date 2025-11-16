@@ -1,3 +1,2 @@
 # Continuum-model-dataset-of-twisted-bilayer-TMDs
-This repository contains the dataset to reproduce the continuum model of twisted bilayer MoTe2 and WSe2 as shown in arXiv:2508.17673. 
-It contains the machine learning force fields, relaxed moire superlattice at various twist angles, and the twist-angle-dependent Fourier components in the continuum model Hamiltonian. 
+This repository provides the datasets used to reproduce the continuum model of twisted bilayer MoTe₂ and WSe₂ reported in arXiv:2508.17673. It includes machine-learning force fields, relaxed moiré superlattices at multiple twist angles, and the twist-angle-dependent Fourier components for the continuum Hamiltonian.
