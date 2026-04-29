@@ -3,4 +3,4 @@ This repository provides the datasets used to reproduce the continuum model of t
 
 If you use the data in this repository, please cite the following two papers:
 
-Xiao-Wei Zhang, et al, Nat. Commun. 15, 4223 (2024); Xiao-Wei Zhang, et al, arXiv:2508.17673. 
+Xiao-Wei Zhang, et al, Nat. Commun. 15, 4223 (2024); Xiao-Wei Zhang, npj Quantum Materials 10, 110 (2025).
