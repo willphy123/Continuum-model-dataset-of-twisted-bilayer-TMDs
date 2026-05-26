@@ -7,4 +7,4 @@ In the examples, I included a Julia script that can read the Fourier components 
 
 If you use the data in this repository, please cite the following two papers:
 
-Xiao-Wei Zhang, et al, Nat. Commun. 15, 4223 (2024); Xiao-Wei Zhang, npj Quantum Materials 10, 110 (2025).
+Xiao-Wei Zhang, et al, Nat. Commun. 15, 4223 (2024); Xiao-Wei Zhang, et al, npj Quantum Materials 10, 110 (2025).
