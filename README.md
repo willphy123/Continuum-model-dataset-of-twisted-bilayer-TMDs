@@ -2,6 +2,7 @@
 This repository provides the datasets used to reproduce the continuum model of twisted bilayer MoTe₂ and WSe₂ reported in npj Quantum Materials 10, 110 (2025). 
 
 It includes machine-learning force fields, relaxed moiré superlattices at multiple twist angles, and the twist-angle-dependent Fourier components for the continuum Hamiltonian. 
+"Es-band.dat" and "Es-band-spin.dat" denote the spin-unresolved and spin-resolved DFT band structures, respectively. 
 
 In the examples, I included a Julia script that can read the Fourier components and calculate the moire band structures for 3.89 and 2.00 deg MoTe2, as well as 3.89 and 2.14 deg WSe2. 
 
